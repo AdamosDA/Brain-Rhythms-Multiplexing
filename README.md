@@ -3,7 +3,7 @@
 
 Used in the context of the following study:
 
-**Adamos DA**, Laskaris NA, Micheloyannis S, “[Harnessing functional segregation across brain rhythms as a means to detect EEG oscillatory multiplexing during music listening](http://iopscience.iop.org/article/10.1088/1741-2552/aaac36)“. Journal of Neural Engineering (2018 - to appear). 
+Dimitrios A. Adamos, Nikolaos Laskaris, Sifis Micheloyannis (2018). “[Harnessing functional segregation across brain rhythms as a means to detect EEG oscillatory multiplexing during music listening](http://iopscience.iop.org/article/10.1088/1741-2552/aaac36)“. **Journal of Neural Engineering**(http://iopscience.iop.org/journal/1741-2552) (to appear). 
 
 **What's Included**
 1. MATLAB functions
